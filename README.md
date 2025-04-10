@@ -1,7 +1,7 @@
 # PDFlator 📄🌍
 
 <p align="center">
-  <img src="https://github.com/unh00k3d/PDFlator/blob/main/logo.png" alt="PDFlator Logo" width="200"/>
+  <img src="https://raw.githubusercontent.com/unh00k3d/PDFlator/refs/heads/main/logo.png" alt="PDFlator Logo" width="200"/>
 </p>
 
 PDFlator is an application designed to translate PDF files while preserving their original layout. **Crucially, the primary goal of this project is not just the translation functionality itself, but to serve as a practical demonstration of modular software design, SOLID principles, and common design patterns (like Factory). It aims to be extensible and maintainable.**

@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="pdflator",
-    version="1.0.0",
+    version="1.0",
     author="unh00k3d",
     author_email="unh00k3d",
     description="A PDF translator that preserves layout",
