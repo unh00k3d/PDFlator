@@ -57,10 +57,10 @@ It serves as an example of building a maintainable application where functionali
 
 ```bash
 # Install from PyPI (if published)
-# pip install pdflator
+pip install pdflator
 
 # Or for isolated installation (if published)
-# pipx install pdflator
+pipx install pdflator
 
 # Currently, install from source or use development mode
 pip install git+https://github.com/your-username/PDFlator.git # Replace with actual URL if public
